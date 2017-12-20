@@ -1,0 +1,28 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640 (ID=0xfc1)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Victor\Documents\Unity\Space-Shooter-v2\Builds\Space-Shooter-v2-win_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.032 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.725791 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: bd8 -> priority: 1 
