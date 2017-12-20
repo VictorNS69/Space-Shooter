@@ -8,7 +8,7 @@ Move the spaceship with the arrows and shoot with the left click.
 (You can also use awsd to move the spaceship)
 
 ## How to start the game
-Clone or download the repository.
+Clone or download the repository.\n
 Windows:
 ```
 Move to \Space-Shooter-master\Space-Shooter-v2\Builds
