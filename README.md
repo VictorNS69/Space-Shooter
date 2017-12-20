@@ -3,12 +3,13 @@
 
 Space shooter game made with Unity
 
-## How to play
+### How to play
 Move the spaceship with the arrows and shoot with the left click. 
 (You can also use awsd to move the spaceship)
 
-## How to start the game
-Clone or download the repository.\n
+### How to start the game
+Clone or download the repository.
+
 Windows:
 ```
 Move to \Space-Shooter-master\Space-Shooter-v2\Builds
