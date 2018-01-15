@@ -13,7 +13,7 @@ Clone or download the repository.
 Windows:
 ```
 Move to Space-Shooter-master\Space-Shooter-v2\Builds
-Run Space-Shooter-v2-win
+Run Space-Shooter-v2-win.exe
 ```
 Linux:
 ```
