@@ -3,7 +3,7 @@
 
 Space shooter game made with Unity.
 
-[Space Shooter tutorial](https://unity3d.com/es/learn/tutorials/s/space-shooter-tutorial)
+[Space Shooter tutorial.](https://unity3d.com/es/learn/tutorials/s/space-shooter-tutorial)
 
 ### How to play
 Move the spaceship with the arrows and shoot with the left click. 
